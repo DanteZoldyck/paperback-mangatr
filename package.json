@@ -1,0 +1,12 @@
+{
+  "name": "paperback-mangatr",
+  "version": "1.0.0",
+  "description": "Manga-TR source for Paperback",
+  "scripts": {
+    "build": "npx paperback-extensions-common bundle",
+    "serve": "npx paperback-extensions-common serve"
+  },
+  "devDependencies": {
+    "paperback-extensions-common": "^8.1.3"
+  }
+}
