@@ -7,6 +7,6 @@
     "serve": "npx paperback-extensions-common serve"
   },
   "devDependencies": {
-    "paperback-extensions-common": "^7.1.6"
+    "paperback-extensions-common": "5.0.0-alpha.7"
   }
 }
